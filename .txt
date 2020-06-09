@@ -1,0 +1,11 @@
+SETUP
+npm install -D prettier
+.editorconfig file
+npm install -D eslint-plugin-import esling-config-prettier
+
+don't ship with last 2 chrome versions in package.json 
+
+wild card selector to be used in all css 
+* {
+  box-sizing: border-box;
+}
